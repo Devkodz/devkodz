@@ -1,0 +1,39 @@
+@font-face {
+  font-family: 'poppins-Light';
+  src:  url('../fonts/poppins-Light.woff') format('woff');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'poppins-Regular';
+  src: url('../fonts/poppins-Regular.woff') format('woff');
+  font-display: swap;
+}
+
+/* poppins-500 - latin */
+@font-face {
+  font-family: 'poppins-Medium';
+  src: url('../fonts/poppins-Medium.woff') format('woff');
+  font-display: swap;
+}
+/* poppins-700 - latin */
+@font-face {
+  font-family: 'poppins-Bold';
+  src:  url('../fonts/poppins-Bold.woff') format('woff');
+  font-display: swap;
+}
+@font-face {
+  font-family: 'poppins-Semibold';
+  src:  url('../fonts/poppins-Semibold.woff') format('woff');
+  font-display: swap;
+}
+@font-face {
+  font-family: 'poppins-Black';
+  src: url('../fonts/poppins-Black.woff') format('woff');
+  font-display: swap;
+}
+@font-face {
+  font-family: 'prompt-Bold';
+  src: url('../fonts/prompt/Prompt-Bold.tff') format('tff');
+  font-display: swap;
+}
